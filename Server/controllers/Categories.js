@@ -1,5 +1,6 @@
 const Category = require('../models/Category');
 const Course = require('../models/Course')
+
 function getRandomInt(max) {
     return Math.floor(Math.random() * max)
   }
